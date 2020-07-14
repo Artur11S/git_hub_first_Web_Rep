@@ -1,1 +1,3 @@
-Esto es otro archivo
+Esto es otro archivo Con touch se crea archivo
+y con nano se puede modificar
+cat es para imprimir
