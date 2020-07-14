@@ -3,8 +3,10 @@ Y esta linea es la version 2
 o version 3 xDxDXDxdxd
 Pasos
 Cambiar archivo con NANO
-Añadir archivo con add
-Crear commit
+Añadir archivo con add para preparar archivos a ser versionados
+Crear commit con -m 
 git log
 git init es para iniciar en esa carpeta
 git status ver estado de archivos
+
+Con commit -m para poner un mensaje
