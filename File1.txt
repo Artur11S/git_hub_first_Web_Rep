@@ -10,3 +10,6 @@ git init es para iniciar en esa carpeta
 git status ver estado de archivos
 
 Con commit -m para poner un mensaje
+
+git push origin (rama) Subir a git hub
+git remote add URL subir version
