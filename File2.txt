@@ -1,3 +1,6 @@
 Esto es otro archivo Con touch se crea archivo
 y con nano se puede modificar
 cat es para imprimir
+Comandos para Git 
+Crear branch con git branch diferente de master
+
